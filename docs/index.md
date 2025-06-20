@@ -26,4 +26,4 @@ description: 人生について考える - 生きているだけで丸儲け
 
 ## 関連ページ
 
-📝 [Markdown技法の学習](markdown-techniques.md) - 様々なMarkdown技法のサンプル集
+📝 [Markdown技法の学習](markdown_techniques.md) - 様々なMarkdown技法のサンプル集
