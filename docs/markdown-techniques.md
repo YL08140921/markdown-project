@@ -1,3 +1,8 @@
+---
+title: Markdown技法の学習
+description: 様々なMarkdown技法のサンプル集
+---
+
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
@@ -124,4 +129,10 @@ Duplicated footnote reference[^second].
 
 ## Youtube Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pyF8hh-2QuA?si=qs8PhP_ehJs5aCuj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pyF8hh-2QuA?si=qs8PhP_ehJs5aCuj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## ナビゲーション
+
+🏠 [ホームページに戻る](index.md) 
