@@ -23,7 +23,3 @@ description: 人生について考える - 生きているだけで丸儲け
 おまけの人生ですから、楽しんでいただきたい。
 
 ---
-
-## 関連ページ
-
-📝 [Markdown技法の学習](markdown_techniques.md) - 様々なMarkdown技法のサンプル集
